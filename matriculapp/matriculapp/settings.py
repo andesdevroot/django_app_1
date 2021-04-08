@@ -55,7 +55,7 @@ ROOT_URLCONF = 'matriculapp.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/CRivas.ex/Desktop/COPEC-G18/Python/DJANGO/matriculapp/Modulos/Academica/plantillas'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
